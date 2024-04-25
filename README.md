@@ -1,8 +1,8 @@
-<p align="center"><a href="https://soemoethu.pages.dev/" target="_blank"><img src="https://github.com/thafanseid/soemoethu/blob/main/public/logo.png" width="60" height="60"></a> </p>
+<p align="center"><a href="https://soemoethu.pages.dev/" target="__blank"><img src="https://github.com/thafanseid/soemoethu/blob/main/public/logo.png" width="60" height="60"></a> </p>
 
 
-### Hi there 👋
-
+### Hi I'm "Soe Moe Thu" 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09B850&random=false&width=435&lines=+Hi%2C+I'm+Soe+Moe+Thu+%F0%9F%91%8B;Senior+PHP+Developer" alt="Typing SVG" /></a>
 <!--
 **thafanseid/thafanseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
