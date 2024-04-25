@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/thafanseid/soemoethu/blob/main/public/logo.png" width="400"></a> Hi I'm "Soe Moe Thu"</p>
+<p align="center"><a href="https://soemoethu.pages.dev/" target="_blank"><img src="https://github.com/thafanseid/soemoethu/blob/main/public/logo.png" width="60" height="60"></a> Hi I'm "Soe Moe Thu"</p>
 
 ### Hi there 👋
 
