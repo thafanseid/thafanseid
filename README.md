@@ -1,9 +1,5 @@
 <p align="center"><a href="https://soemoethu.pages.dev/" target="_blank"><img src="https://github.com/thafanseid/soemoethu/blob/main/public/logo.png" width="60" height="60"></a> </p>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-/>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
 
 ### Hi there 👋
 
