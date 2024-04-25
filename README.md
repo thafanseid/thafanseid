@@ -1,4 +1,4 @@
-<p align="center"><a href="https://soemoethu.pages.dev/" target="_blank"><img src="https://github.com/thafanseid/soemoethu/blob/main/public/logo.png" width="60" height="60">Soe Moe Thu</a> </p>
+<p align="center"><a href="https://soemoethu.pages.dev/" target="_blank"><img src="https://raw.githubusercontent.com/thafanseid/soemoethu/blob/main/public/logo.png" width="60" height="60">Soe Moe Thu</a> </p>
 
 ### Hi there 👋
 
