@@ -24,7 +24,8 @@ I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wi
 <a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=livewire&label=Livewire&message=%E2%9C%94%EF%B8%8F&color=CD347F" alt="Livewire"></a>
 
 <a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
-
+</div>
+<div align="center" dir="auto">
 <a href="https://getbootstrap.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
 
 <a href="https://www.mysql.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=MySQL&label=MySQL&message=%E2%9C%94%EF%B8%8F&color=3E6E93" alt="MySQL"></a>
