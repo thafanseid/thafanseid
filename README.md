@@ -25,9 +25,7 @@ I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wi
 
 <a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
 </p>
-<div align="center" dir="auto">
-<a href="https://getbootstrap.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
-
+<p align="center">
 <a href="https://www.mysql.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=MySQL&label=MySQL&message=%E2%9C%94%EF%B8%8F&color=3E6E93" alt="MySQL"></a>
 
 <a href="https://jquery.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=jQuery&label=jQuery&message=%E2%9C%94%EF%B8%8F&color=0769AD" alt="jQuery"></a>
@@ -36,14 +34,12 @@ I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wi
 
 <a href="https://en.wikipedia.org/wiki/API"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=restfulapi&label=REST%20API&message=%E2%9C%94%EF%B8%8F&color=FFCB2F" alt="REST"></a>
 
-<a href="https://en.wikipedia.org/wiki/API"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=restfulapi&label=REST%20API&message=%E2%9C%94%EF%B8%8F&color=FFCB2F" alt="REST"></a>
-
 <a href="https://git-scm.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=git&label=GIT&message=%E2%9C%94%EF%B8%8F&color=F44C27" alt="GIT"></a>
 
 <a href="https://en.wikipedia.org/wiki/CSS"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=CSS&label=CSS&message=%E2%9C%94%EF%B8%8F&color=F44C27" alt="CSS"></a>
 
 <a href="#"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=server&label=server&message=%E2%9C%94%EF%B8%8F&color=F44C27" alt="SERVER"></a>
-</div>
+</p>
 <!--
 **thafanseid/thafanseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
