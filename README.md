@@ -15,7 +15,7 @@ I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wi
 <p>Bachelor of Computer Science (B.C.Sc) (December 2011 to September 2017)</p>
 
 ## Tech Stacks
-<div align="center" dir="auto">
+<p align="center">
 <a href="https://www.php.net/"><img src="https://img.shields.io/static/v1?style=flat&logo=php&label=PHP&message=%E2%9C%94%EF%B8%8F&color=blueviolet" alt="PHP"></a>
 <a href="https://laravel.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=laravel&label=Laravel&message=%E2%9C%94%EF%B8%8F&color=red" alt="Laravel"></a>
 
@@ -24,7 +24,7 @@ I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wi
 <a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=livewire&label=Livewire&message=%E2%9C%94%EF%B8%8F&color=CD347F" alt="Livewire"></a>
 
 <a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
-</div>
+</p>
 <div align="center" dir="auto">
 <a href="https://getbootstrap.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
 
