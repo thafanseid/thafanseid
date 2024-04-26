@@ -18,18 +18,13 @@ I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wi
 <p align="center">
 <a href="https://www.php.net/"><img src="https://img.shields.io/static/v1?style=flat&logo=php&label=PHP&message=%E2%9C%94%EF%B8%8F&color=blueviolet" alt="PHP"></a>
 <a href="https://laravel.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=laravel&label=Laravel&message=%E2%9C%94%EF%B8%8F&color=red" alt="Laravel"></a>
-
 <a href="https://vuejs.org/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&amp;logo=vuejs&amp;label=VueJs&amp;message=%E2%9C%94%EF%B8%8F&amp;color=green" alt="Vue"></a>
-
 <a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=livewire&label=Livewire&message=%E2%9C%94%EF%B8%8F&color=CD347F" alt="Livewire"></a>
-
-<a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
 </p>
 <p align="center">
+<a href="https://laravel-livewire.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533FA" alt="Bootstrap"></a>
 <a href="https://www.mysql.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=MySQL&label=MySQL&message=%E2%9C%94%EF%B8%8F&color=3E6E93" alt="MySQL"></a>
-
 <a href="https://jquery.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=jQuery&label=jQuery&message=%E2%9C%94%EF%B8%8F&color=0769AD" alt="jQuery"></a>
-
 <a href="https://firebase.google.com/"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=Firebase&label=Firebase&message=%E2%9C%94%EF%B8%8F&color=FFCB2F" alt="Firebase"></a>
 
 <a href="https://en.wikipedia.org/wiki/API"><img class="rounded-md border" src="https://img.shields.io/static/v1?style=flat&logo=restfulapi&label=REST%20API&message=%E2%9C%94%EF%B8%8F&color=FFCB2F" alt="REST"></a>
