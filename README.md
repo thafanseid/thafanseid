@@ -11,7 +11,7 @@
 I'm a Senior Web Developer from <a href="https://en.wikipedia.org/wiki/Myanmar" target="__blank">Myanmar or Burma</a>  with passions for programming. Experenced PHP developer with expertise in Laravel about 6 years of experience building high-performance, scalable web applications.Proven ability to design, develop, and deploy robust features using Laravel and modern web development practices.Experienced specializing in building Reful APIs and complex functionalities.
 
 ## Education
-<p>University of Computer Science, Monywa</p>
+<p><a href="https://ucsmonywa.edu.mm/" target="__blank">University of Computer Science, Monywa</a></p>
 <p>Bachelor of Computer Science (B.C.Sc) (December 2011 to September 2017)</p>
 
 ## Tech Stacks
