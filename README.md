@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm <b>Soe Moe Thu</b> who is a Senior PHP Developer from <a href="https://en.wikipedia.org/wiki/Myanmar" target="__blank">Myanmar or Burma</a>  with passions for programming. Experenced PHP developer with expertise in Laravel about 6 years of experience building high-performance, scalable web applications.Proven ability to design, develop, and deploy robust features using Laravel and modern web development practices.Experienced specializing in building Reful APIs and complex functionalities.
+I'm a Senior Web Developer from <a href="https://en.wikipedia.org/wiki/Myanmar" target="__blank">Myanmar or Burma</a>  with passions for programming. Experenced PHP developer with expertise in Laravel about 6 years of experience building high-performance, scalable web applications.Proven ability to design, develop, and deploy robust features using Laravel and modern web development practices.Experienced specializing in building Reful APIs and complex functionalities.
 
 ## Education
 <p>University of Computer Science, Monywa</p>
