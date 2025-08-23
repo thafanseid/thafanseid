@@ -34,11 +34,11 @@ I'm a **Senior Web Developer** from <a href="https://en.wikipedia.org/wiki/Myanm
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://www.php.net/"><img src="https://img.shields.io/static/v1?style=flat&logo=php&label=PHP&message=✔️&color=blueviolet" alt="PHP"></a>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=laravel&label=Laravel&message=✔️&color=red" alt="Laravel"></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=vue.js&label=Vue.js&message=✔️&color=42b883" alt="Vue.js"></a>
-  <a href="https://laravel-livewire.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=livewire&label=Livewire&message=✔️&color=cd347f" alt="Livewire"></a>
+<p align="left">
+  <a href="https://www.php.net/"><img src="https://img.shields.io/static/v1?style=flat&logo=php&label=PHP&message=%E2%9C%94%EF%B8%8F&color=blueviolet" alt="PHP"></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=laravel&label=Laravel&message=%E2%9C%94%EF%B8%8F&color=red" alt="Laravel"></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=vue.js&label=Vue.js&message=%E2%9C%94%EF%B8%8F&color=42b883" alt="Vue.js"></a>
+  <a href="https://laravel-livewire.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=livewire&label=Livewire&message=%E2%9C%94%EF%B8%8F&color=cd347f" alt="Livewire"></a>
 </p>
 
 <p align="center">
