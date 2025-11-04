@@ -41,7 +41,7 @@ I'm a **Senior Web Developer** from <a href="https://en.wikipedia.org/wiki/Myanm
   <a href="https://laravel-livewire.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=livewire&label=Livewire&message=%E2%9C%94%EF%B8%8F&color=cd347f" alt="Livewire"></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=tailwindcss&label=Tailwind%20CSS&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="Tailwind CSS"></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/static/v1?style=flat&logo=react&label=React%20JS%20&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="React"></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=next.js&label=Next%20JS%20&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="Next.js"></a>
@@ -49,14 +49,14 @@ I'm a **Senior Web Developer** from <a href="https://en.wikipedia.org/wiki/Myanm
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=typescript&label=TypeScript&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="TypeScript"></a>
 </p>
 
-<p align="center">
-  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=✔️&color=7533fa" alt="Bootstrap"></a>
+<p align="left">
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=bootstrap&label=Bootstrap&message=%E2%9C%94%EF%B8%8F&color=7533fa" alt="Bootstrap"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=mysql&label=MySQL&message=✔️&color=3e6e93" alt="MySQL"></a>
   <a href="https://jquery.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=jquery&label=jQuery&message=✔️&color=0769ad" alt="jQuery"></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=firebase&label=Firebase&message=✔️&color=ffcb2f" alt="Firebase"></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.shields.io/static/v1?style=flat&logo=api&label=REST%20API&message=✔️&color=ffa500" alt="REST API"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=git&label=Git&message=✔️&color=f44c27" alt="Git"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/static/v1?style=flat&logo=css3&label=CSS&message=✔️&color=264de4" alt="CSS"></a>
