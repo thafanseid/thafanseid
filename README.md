@@ -42,11 +42,11 @@ I'm a **Senior Web Developer** from <a href="https://en.wikipedia.org/wiki/Myanm
 </p>
 
 <p align="center">
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=tailwindcss&label=TailwindCSS&message=✔️&color=38bdf8" alt="Tailwind CSS"></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/static/v1?style=flat&logo=react&label=React&message=✔️&color=61dafb" alt="React"></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=next.js&label=Next.js&message=✔️&color=000000" alt="Next.js"></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/static/v1?style=flat&logo=go&label=Go&message=✔️&color=00add8" alt="Go"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=typescript&label=TypeScript&message=✔️&color=3178c6" alt="TypeScript"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=tailwindcss&label=Tailwind%20CSS&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="Tailwind CSS"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/static/v1?style=flat&logo=react&label=React%20JS%20&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="React"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=next.js&label=Next%20JS%20&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="Next.js"></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/static/v1?style=flat&logo=go&label=Go&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="Go"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?style=flat&logo=typescript&label=TypeScript&message=%E2%9C%94%EF%B8%8F&color=38BDF8" alt="TypeScript"></a>
 </p>
 
 <p align="center">
