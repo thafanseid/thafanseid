@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Web Developer** from <a href="https://en.wikipedia.org/wiki/Myanmar" target="__blank">Myanmar (Burma)</a>, passionate about building scalable and high-performance applications.  
+I'm a **Software Engineer** from <a href="https://en.wikipedia.org/wiki/Myanmar" target="__blank">Myanmar (Burma)</a>, passionate about building scalable and high-performance applications.  
 
 - 💡 6+ years of hands-on experience in **PHP** and **Laravel**.  
 - ⚡ Specialized in designing and developing **RESTful APIs** and complex backend functionalities.  
